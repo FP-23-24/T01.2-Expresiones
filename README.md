@@ -1,2 +1,3 @@
 # T01.2-Expresiones
-Ejercicio para trabajar con expresiones lógicas-
+Abra el archivo expresiones.py y complete los ejercicios sustituyendo los comentarios #TODO por la expresiones lógicas pertinentes.
+
